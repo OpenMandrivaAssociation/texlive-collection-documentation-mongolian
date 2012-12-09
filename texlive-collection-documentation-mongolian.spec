@@ -32,3 +32,12 @@ TeXLive collection-documentation-mongolian package.
 %build
 
 %install
+
+
+%changelog
+* Fri Feb 24 2012 Paulo Andrade <pcpa@mandriva.com.br> 1:20120224-1
++ Revision: 780248
+- Update to latest release.
+- Import texlive-collection-documentation-mongolian
+- Import texlive-collection-documentation-mongolian
+
